@@ -1,0 +1,9 @@
+case_id,minutes,rate_usd,display_hours_2dp,gross_from_minutes,gross_from_display
+one_minute,1,20,0.02,0.33,0.40
+split_day,455,21,7.58,159.25,159.18
+week_two,460,21,7.67,161.00,161.07
+combined,915,21,15.25,320.25,320.25
+zero,0,21,0.00,0.00,0.00
+quarter_hour,15,18.50,0.25,4.63,4.63
+long_shift,645,23.75,10.75,255.31,255.31
+fractional_rate,37,19.99,0.62,12.33,12.39
